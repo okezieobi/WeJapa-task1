@@ -1,0 +1,24 @@
+{
+  "name": "WeJapa-task1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okezieobi/WeJapa-task1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okezieobi/WeJapa-task1/issues"
+  },
+  "homepage": "https://github.com/okezieobi/WeJapa-task1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
